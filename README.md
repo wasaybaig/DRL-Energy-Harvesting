@@ -1,6 +1,6 @@
 # DRL-Energy-Harvesting
 
-This repository contains the code for the paper titled **"Navigating Boundaries in Quantifying Robustness: A DRL Expedition for Non-Linear Energy Harvesting IoT Networks"** published on IEEE Xplore. The paper investigates deep reinforcement learning (DRL) approaches to optimize the data rate of energy-harvesting-enabled IoT devices in a cognitive radio-aided non-orthogonal multi-access (CR-NOMA) network. 
+This repository contains the code for the paper titled **"Navigating Boundaries in Quantifying Robustness: A DRL Expedition for Non-Linear Energy Harvesting IoT Networks"** published in IEEE Communication Letters. The paper investigates deep reinforcement learning (DRL) approaches to optimize the data rate of energy-harvesting-enabled IoT devices in a cognitive radio-aided non-orthogonal multi-access (CR-NOMA) network. 
 
 You can access the paper [here](https://ieeexplore.ieee.org/document/10659082).
 
